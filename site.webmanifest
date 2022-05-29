@@ -1,0 +1,23 @@
+  {
+    "name": "Techbard - Better Tech Solutions",
+    "short_name": "Techbard",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHblnd_C3dBMSifS7ku3qGtL0CUn5OfgMAC3_CRtQ3xwJMl4B5cPZAIVdRrBK3ONm4y4RCl6Ib-7l29AMDQ28FAcnOTqdgnOKhVYtOm-p3JhOxZ1_zmItRSRWWnjWFRZNiytXDRkKvpmYieOs65CpC5DT0uqQ2R0rUKzBfaO-cuYIRPzeyGDdTLKv/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilfgQDqimdZPNxmlt7H54DFXP3DkE1Hu7TqHVoFt86ztl0HgcdUAUGKVFKmOcUcisVPGTwY7HhmYzXvTQWgtVv2JOcG7SsBWJJdJ5Dl-w5JHKge4k6_uMnt9exe9bh-Ytz5uDsoJc2qiO_gbgsJwkDbpTTRTuXmZ4bLKnnI6UHSeyDMnkcRG59pbF6/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.techbard.in"
+}
